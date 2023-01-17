@@ -1,3 +1,8 @@
+# ARCHIVED
+
+There's now a Dockerfile in the [official stubby repository](https://github.com/getdnsapi/stubby).
+
+
 # About Stubby
 
 Stubby is an application that acts as a local **DNS Privacy stub resolver** (using DNS-over-TLS). Stubby encrypts DNS queries sent 
